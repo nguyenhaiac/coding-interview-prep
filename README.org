@@ -107,11 +107,11 @@ My Learning plan adapted from Coding interview university
 
 *** TODO Implement (I did with tail pointer & without):
 
-***** TODO size() - returns number of data elements in list
+***** DONE size() - returns number of data elements in list
 ***** TODO empty() - bool returns true if empty
-***** TODO value_at(index) - returns the value of the nth item (starting at 0 for first)
-***** TODO push_front(value) - adds an item to the front of the list
-***** TODO pop_front() - remove front item and return its value
+***** DONE value_at(index) - returns the value of the nth item (starting at 0 for first)
+***** DONE push_front(value) - adds an item to the front of the list
+***** DONE pop_front() - remove front item and return its value
 ***** TODO push_back(value) - adds an item at the end
 ***** TODO pop_back() - removes end item and returns its value
 ***** TODO front() - get value of front item
